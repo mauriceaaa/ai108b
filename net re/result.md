@@ -1,5 +1,5 @@
-PS C:\Users\user\Desktop\ccc\ai108b\net re> python .\nethw.py
-0  =>  14<
+PS C:\Users\user\Desktop\ccc\ai108b\net re> python .\nethw.py  
+0  =>  14  
 1  =>  12.9024
 2  =>  11.89085184       
 3  =>  10.958609055744002
