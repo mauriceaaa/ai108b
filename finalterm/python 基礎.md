@@ -7,7 +7,7 @@ input  函數 輸入一些東西<br>
 if elif  結束是用: tab size為4<br>
 
 註解為兩種方式 #     ‘’’ <br>
-                    ‘’’<br>
+ &nbsp;&nbsp;&nbsp;                   ‘’’<br>
 
 迴圈 		for I in range(1, 5)       Print(i)<br>
             Continue 回到迴圈開頭 繼續做，後面的東西不會在執行<br>
